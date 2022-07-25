@@ -10,7 +10,7 @@ GTMaps does not require any external dependencies and can be run in your IDE of 
 
 Note: This project underwent several refactoring stages. To the best of our knowledge, the current of version of GTMaps **does not** require the installation packages/commands described below. We have only included them for information purposes. 
 
-The original version of GTMaps used [cocoapods](https://cocoapods.org). In particular, it made use of [Pulley](https://github.com/52inc/Pulley) to support some application features. You may follow the instructions on their GitHub page but installation with cocoapods would simply require ```pod 'Pulley'```. 
+The original version of GTMaps used [cocoapods](https://cocoapods.org). In particular, it made use of [Pulley](https://github.com/52inc/Pulley) to support some application features. You may follow the instructions on their GitHub page but installation with cocoapods would simply require adding ```pod 'Pulley'``` in the Podfile followed by ```pod install```. 
 
 ## Requirements
 
